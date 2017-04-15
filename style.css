@@ -1,0 +1,16 @@
+.full-width {
+    width: 100%;
+}
+
+.mdl-snackbar__text {
+    text-align: center;
+    width: 100%;
+}
+
+.mdl-snackbar__action {
+    padding: 0;
+}
+
+.hide {
+    display: none;
+}
